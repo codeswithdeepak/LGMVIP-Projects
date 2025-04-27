@@ -1,8 +1,8 @@
 Hello Everyone..!
 
-I'm Adarsh Pandey
+I'm Deepak shukla
 
-Well, This Blog is to share my experience as a Web Developing Intern in the Virtual Internship Program (VIP) at LetsGrowMore which is held in September 2022.
+Well, This Blog is to share my experience as a Web Developing Intern in the Virtual Internship Program (VIP) at LetsGrowMore which is held in September 2024.
 
 I would like to thank Aman Kesarwani Sir and the team of LetsGrowMore Community for giving me this opportunity to enhance my skills and work on such an amazing projects.
 
