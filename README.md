@@ -2,7 +2,7 @@ Hello Everyone..!
 
 I'm Deepak Shukla
 
-Well, This Blog is to share my experience as a Web Developing Intern in the Virtual Internship Program (VIP) at LetsGrowMore which is held in September 2024.
+Well, This Blog is to share my experience as a Web Developing Intern in the Virtual Internship Program (VIP) at LetsGrowMore which is held in September 2025.
 
 I would like to thank Aman Kesarwani Sir and the team of LetsGrowMore Community for giving me this opportunity to enhance my skills and work on such an amazing projects.
 
