@@ -16,5 +16,4 @@ So, as soon as we click on that button, It will fetch & load all the data of the
 
 Task 3 (Intermediate level Task) : We need to create a registration form whose data display on the same page using HTML, CSS & Javascript or ReactJS.
 
-Task 4 (Intermediate level Tas
-next
+
