@@ -14,7 +14,7 @@ Task 2 (Beginner level Task) : We need to create a web application using create-
 
 So, as soon as we click on that button, It will fetch & load all the data of the users from the given API and then display user name, photo and mail id in the form of user card grid layout.
 
-Task 3 (Intermediate level Task) : We need to create.
+Task 3 (Intermediate level Task);
 
 
 
